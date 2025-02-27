@@ -1,3 +1,7 @@
+/* 2.4 c++
+Name of programmer-Nijal Bhanderi 24ce009
+Aim-dmart system using initail and default parameters
+Date-25 feb*/
 #include <iostream>
 #include <iomanip> // For setw()
 
